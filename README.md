@@ -22,8 +22,8 @@ A machine learning project for processing SAS XPT files, visualizing data, and t
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/69SJ/BMI_catergory_multiclass_model
+   cd BMI_catergory_multiclass_model
 
 2. **Install Dependencies**
 
